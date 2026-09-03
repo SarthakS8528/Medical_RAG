@@ -1,0 +1,17 @@
+{
+  "doc_id": "pubmed_11",
+  "title": "Identification and analysis of type 2 diabetes-mellitus-associated autophagy-related genes",
+  
+  
+  "abstract": "Introduction: Autophagy, an innate safeguard mechanism for protecting the organism against harmful agents, is implicated in the survival of pancreatic â cells and the development of type 2 diabetes mellitus (T2DM). Potential autophagy-related genes (ARGs) may serve as potential biomarkers for T2DM treatment.\n\nMethods: The GSE25724 dataset was downloaded from the Gene Expression Omnibus (GEO) database, and ARGs were obtained from the Human Autophagy Database. The differentially expressed autophagy-related genes (DEARGs) were screened at the intersection of ARGs and differentially expressed genes (DEGs) between T2DM and non-diabetic islet samples, which were subjected to functional enrichment analyses. A protein-protein interaction (PPI) network was constructed to identify hub DEARGs. Expressions of top 10 DEARGs were validated in human pancreatic â-cell line NES2Y and rat pancreatic INS-1 cells using quantitative reverse transcription polymerase chain reaction (qRT-PCR). Cell viability and insulin secretion were measured after cell transfection with lentiviral vector EIF2AK3 or RB1CC1 into islet cells.\n\nResults: In total, we discovered 1,270 DEGs (266 upregulated and 1,004 downregulated genes) and 30 DEARGs enriched in autophagy- and mitophagy-related pathways. In addition, we identified GAPDH, ITPR1, EIF2AK3, FOXO3, HSPA5, RB1CC1, LAMP2, GABARAPL2, RAB7A, and WIPI1 genes as the hub ARGs. Next, qRT-PCR analysis revealed that expressions of hub DEARGs were consistent with findings from bioinformatics analysis. EIF2AK3, GABARAPL2, HSPA5, LAMP2, and RB1CC1 were both differentially expressed in the two cell types. Overexpression of EIF2AK3 or RB1CC1 promoted cell viability of islet cells and increased the insulin secretion.\n\nDiscussion: This study provides potential biomarkers as therapeutic targets for T2DM.",
+
+
+  "keywords": [
+    "autophagy",
+    "biomarker",
+    "differentially expressed genes",
+    "hub genes",
+    "T2DM"
+  ],
+  "source": "PubMed"
+}

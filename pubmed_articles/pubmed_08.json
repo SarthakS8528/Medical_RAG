@@ -1,0 +1,13 @@
+{
+  "doc_id": "pubmed_08",
+  "title": "A review of type 2 diabetes mellitus and cognitive impairment",
+  "abstract": "The association between type 2 diabetes mellitus (T2DM) and cognitive impairment represents a critical public health concern, particularly against the backdrop of the rising global prevalence of diabetes and aging populations. Accumulating evidence indicates that T2DM is linked to declines in multiple cognitive domains, which may progress to cognitive impairment or even dementia. This cognitive impairment arises from complex interactions among insulin resistance, chronic inflammatory responses, vascular injury and microangiopathy and oxidative stress. Clinical studies suggest that strict glycemic control combined with behavioral and lifestyle interventions may delay cognitive decline, though their long-term efficacy requires further evidence-based validation. Future research should leverage multi-omics technologies to identify early biomarkers for T2DM-related cognitive impairment, elucidate the underlying molecular mechanisms, identify specific therapeutic targets, and develop personalized intervention strategies. This review systematically examines the epidemiological correlations, pathophysiological mechanisms, and advances in clinical management of T2DM-related cognitive disorders, with the aim of providing a theoretical foundation for early prevention and targeted treatment.",
+  "keywords": [
+    "cognitive impairment",
+    "insulin resistance",
+    "mitochondrial dysfunction",
+    "oxidative stress",
+    "T2DM"
+  ],
+  "source": "PubMed"
+}
