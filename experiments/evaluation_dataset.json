@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "What are the main biological problems that cause blood sugar regulation to break down in type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_06"],
+    "difficulty": "medium",
+    "type": "conceptual",
+    "reference_answer": "Type 2 diabetes involves insulin resistance and pancreatic beta-cell dysfunction. Other contributing mechanisms discussed in the literature include mitochondrial dysfunction, obesity, gut microbiota alterations, oxidative stress, and inflammation."
+  },
+  {
+    "id": 2,
+    "question": "What long-term complications can develop when type 2 diabetes remains poorly controlled?",
+    "relevant_doc_ids": ["pubmed_12"],
+    "difficulty": "easy",
+    "type": "straightforward",
+    "reference_answer": "Poor glycemic control is associated with complications including nephropathy, retinopathy, neuropathy, and cardiovascular disease."
+  },
+  {
+    "id": 3,
+    "question": "Why is kidney damage considered one of the major complications of type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_02"],
+    "difficulty": "medium",
+    "type": "natural_paraphrase",
+    "reference_answer": "Diabetic nephropathy is a major microvascular complication of type 2 diabetes and an important cause of end-stage renal disease worldwide."
+  },
+  {
+    "id": 4,
+    "question": "Why might an older adult with diabetes gradually lose muscle strength and physical function?",
+    "relevant_doc_ids": ["pubmed_03", "pubmed_13"],
+    "difficulty": "medium",
+    "type": "natural_paraphrase",
+    "reference_answer": "Diabetes, aging, sarcopenia, and frailty can share mechanisms such as insulin resistance, chronic inflammation, and mitochondrial dysfunction. Diabetic sarcopenia involves loss of muscle mass, strength, and function."
+  },
+  {
+    "id": 5,
+    "question": "What can be done during the stage when a person's glucose regulation is worsening but diabetes has not yet fully developed?",
+    "relevant_doc_ids": ["pubmed_01", "pubmed_17"],
+    "difficulty": "medium",
+    "type": "conceptual",
+    "reference_answer": "The literature emphasizes prevention and early intervention, including lifestyle modification and, in selected high-risk situations, pharmacological interventions that may prevent or delay type 2 diabetes."
+  },
+  {
+    "id": 6,
+    "question": "Can medication be useful for preventing diabetes in people who are at high risk but do not yet have the disease?",
+    "relevant_doc_ids": ["pubmed_01"],
+    "difficulty": "medium",
+    "type": "straightforward",
+    "reference_answer": "Yes. Pharmacological approaches including metformin have been studied for their ability to prevent or delay type 2 diabetes in high-risk individuals."
+  },
+  {
+    "id": 7,
+    "question": "Could the microorganisms living in the intestine influence whether someone develops type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_05"],
+    "difficulty": "medium",
+    "type": "natural_paraphrase",
+    "reference_answer": "Yes. Gut microbiota dysbiosis has been associated with type 2 diabetes, and microbial metabolites may participate in disease pathogenesis."
+  },
+  {
+    "id": 8,
+    "question": "Which compounds produced or modified by gut microorganisms are being investigated in relation to diabetes?",
+    "relevant_doc_ids": ["pubmed_05"],
+    "difficulty": "hard",
+    "type": "terminology_heavy",
+    "reference_answer": "The literature discusses bile acids, lipopolysaccharide, trimethylamine-N-oxide, tryptophan and indole derivatives, and short-chain fatty acids."
+  },
+  {
+    "id": 9,
+    "question": "Why is cardiovascular disease such an important concern in people with type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_04"],
+    "difficulty": "easy",
+    "type": "straightforward",
+    "reference_answer": "Cardiovascular disease is a major cause of death among people with type 2 diabetes, making cardiovascular risk management an important part of diabetes care."
+  },
+  {
+    "id": 10,
+    "question": "Why would a doctor need to manage blood pressure and cholesterol as well as blood glucose in someone with diabetes?",
+    "relevant_doc_ids": ["pubmed_04"],
+    "difficulty": "hard",
+    "type": "natural_paraphrase",
+    "reference_answer": "Cardiovascular risk in type 2 diabetes is influenced by more than glycemic control. Blood pressure and lipid management are also important because cardiovascular disease is a major cause of mortality."
+  },
+  {
+    "id": 11,
+    "question": "Does the timing of meals matter for metabolic health, or is only the total amount of food important?",
+    "relevant_doc_ids": ["pubmed_07"],
+    "difficulty": "medium",
+    "type": "conceptual",
+    "reference_answer": "Chrononutrition considers meal timing, energy distribution, meal regularity, and frequency in relation to the biological clock. Meal timing may influence metabolic health in addition to dietary quantity and composition."
+  },
+  {
+    "id": 12,
+    "question": "Is taking long naps during the day associated with a greater risk of type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_14"],
+    "difficulty": "easy",
+    "type": "straightforward",
+    "reference_answer": "The reviewed evidence found an association between napping and increased type 2 diabetes risk, particularly among women and especially postmenopausal White women, with naps longer than 30 minutes highlighted."
+  },
+  {
+    "id": 13,
+    "question": "Why can type 2 diabetes affect memory and thinking in addition to causing metabolic problems?",
+    "relevant_doc_ids": ["pubmed_08"],
+    "difficulty": "medium",
+    "type": "conceptual",
+    "reference_answer": "Type 2 diabetes is associated with decline across multiple cognitive domains and may progress to cognitive impairment or dementia. Insulin resistance and chronic inflammation are among the mechanisms discussed."
+  },
+  {
+    "id": 14,
+    "question": "How are fatty liver disease and type 2 diabetes biologically connected?",
+    "relevant_doc_ids": ["pubmed_18"],
+    "difficulty": "hard",
+    "type": "conceptual",
+    "reference_answer": "Type 2 diabetes and NAFLD are interconnected metabolic conditions, with chronic inflammation investigated as a potential mechanism linking their pathogenesis and interaction."
+  },
+  {
+    "id": 15,
+    "question": "What is ferroptosis, and why has it attracted attention in diabetes research?",
+    "relevant_doc_ids": ["pubmed_10"],
+    "difficulty": "medium",
+    "type": "terminology_heavy",
+    "reference_answer": "Ferroptosis is an iron-dependent form of regulated cell death. It has attracted attention because it may contribute to the pathogenesis and progression of type 2 diabetes, including pancreatic beta-cell damage."
+  },
+  {
+    "id": 16,
+    "question": "Could abnormal iron regulation inside cells contribute to diabetes-related damage?",
+    "relevant_doc_ids": ["pubmed_10"],
+    "difficulty": "hard",
+    "type": "natural_paraphrase",
+    "reference_answer": "The literature links disrupted iron homeostasis with endocrine disease and discusses iron imbalance and ferroptosis as mechanisms potentially involved in type 2 diabetes progression and complications."
+  },
+  {
+    "id": 17,
+    "question": "Could changing the behavior of metabolically active fat tissue become a treatment strategy for obesity and type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_09"],
+    "difficulty": "hard",
+    "type": "conceptual",
+    "reference_answer": "Brown adipose tissue is thermogenic and white adipocytes can acquire beige characteristics. Their metabolically active properties have led to investigation of brown and beige adipose tissue as potential therapeutic strategies."
+  },
+  {
+    "id": 18,
+    "question": "Why are researchers interested in autophagy when studying the development and treatment of diabetes?",
+    "relevant_doc_ids": ["pubmed_11"],
+    "difficulty": "hard",
+    "type": "conceptual",
+    "reference_answer": "Autophagy is involved in pancreatic beta-cell survival and type 2 diabetes development. Autophagy-related genes are also being investigated as potential biomarkers and treatment-related targets."
+  },
+  {
+    "id": 19,
+    "question": "Could changes in blood flow within particular regions of the brain help explain cognitive problems associated with diabetes?",
+    "relevant_doc_ids": ["pubmed_20", "pubmed_08"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "Type 2 diabetes has been associated with altered cerebral perfusion and cognitive impairment. Regional cerebral perfusion may be reduced in several brain regions even when global cerebral blood flow does not differ significantly."
+  },
+  {
+    "id": 20,
+    "question": "What does treating diabetes through the gut microbiome actually involve?",
+    "relevant_doc_ids": ["pubmed_05", "pubmed_15"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "Research considers both the role of gut microbiota and microbial metabolites in diabetes pathogenesis and interactions between the gut microbiome and antidiabetic drugs."
+  },
+  {
+    "id": 21,
+    "question": "Why might two patients with the same type 2 diabetes diagnosis require different approaches to cardiovascular risk management?",
+    "relevant_doc_ids": ["pubmed_04"],
+    "difficulty": "hard",
+    "type": "natural_paraphrase",
+    "reference_answer": "The literature emphasizes individualized cardiovascular risk management, including tailored glycemic control and management of blood pressure, lipids, and glucose- and lipid-lowering therapies."
+  },
+  {
+    "id": 22,
+    "question": "Why can detecting diabetes earlier make a meaningful difference to patient outcomes?",
+    "relevant_doc_ids": ["pubmed_02", "pubmed_17"],
+    "difficulty": "medium",
+    "type": "compositional",
+    "reference_answer": "Early detection creates opportunities for prevention, diagnosis, and treatment before complications progress. Early identification is particularly important for complications such as diabetic nephropathy."
+  },
+  {
+    "id": 23,
+    "question": "Why can diabetes and muscle loss be particularly problematic when they occur together in older adults?",
+    "relevant_doc_ids": ["pubmed_03", "pubmed_13"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "Diabetes, sarcopenia, and frailty share mechanisms including insulin resistance, chronic inflammation, and mitochondrial dysfunction. Their coexistence can worsen prognosis and is associated with adverse outcomes."
+  },
+  {
+    "id": 24,
+    "question": "What role does S-nitrosylation play in the molecular biology of type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_19"],
+    "difficulty": "hard",
+    "type": "terminology_heavy",
+    "reference_answer": "The literature investigates S-nitrosylation in the molecular mechanisms associated with type 2 diabetes, which involves insulin deficiency and insulin resistance and can lead to multiple complications."
+  },
+  {
+    "id": 25,
+    "question": "What does pharmacomicrobiomics mean in the context of diabetes treatment?",
+    "relevant_doc_ids": ["pubmed_15"],
+    "difficulty": "medium",
+    "type": "terminology_heavy",
+    "reference_answer": "Pharmacomicrobiomics studies interactions between the gut microbiome and drugs. In type 2 diabetes, these interactions may influence treatment response, side effects, and drug resistance."
+  },
+  {
+    "id": 26,
+    "question": "When researchers study ATP signaling in diabetes, what biological role are they trying to understand?",
+    "relevant_doc_ids": ["pubmed_16"],
+    "difficulty": "hard",
+    "type": "terminology_heavy",
+    "reference_answer": "The purinergic literature examines ATP as an extracellular messenger acting through P2 receptors, with altered extracellular ATP signaling potentially contributing to inflammatory and metabolic processes relevant to type 2 diabetes."
+  },
+  {
+    "id": 27,
+    "question": "How could diabetes simultaneously increase the risk of cardiovascular disease and kidney disease?",
+    "relevant_doc_ids": ["pubmed_02", "pubmed_04", "pubmed_12"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "Diabetes is associated with both microvascular complications such as nephropathy and major cardiovascular complications. Long-term metabolic and vascular abnormalities contribute to risks across multiple organ systems."
+  },
+  {
+    "id": 28,
+    "question": "How might inflammation connect problems involving metabolism, muscle, and the brain in people with type 2 diabetes?",
+    "relevant_doc_ids": ["pubmed_03", "pubmed_08", "pubmed_18"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "Chronic inflammation is discussed across several diabetes-related conditions, including sarcopenia and frailty, cognitive impairment, and the interaction between type 2 diabetes and NAFLD."
+  },
+  {
+    "id": 29,
+    "question": "What mechanisms are being investigated to explain why diabetes can involve problems far beyond abnormal blood glucose?",
+    "relevant_doc_ids": ["pubmed_06", "pubmed_08", "pubmed_10", "pubmed_11"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "The literature describes diabetes as involving interacting mechanisms such as insulin resistance, inflammation, oxidative and mitochondrial dysfunction, altered autophagy, ferroptosis, and effects on organs including the brain."
+  },
+  {
+    "id": 30,
+    "question": "Could lifestyle-related factors such as meal timing and daytime sleep patterns both be relevant to diabetes risk?",
+    "relevant_doc_ids": ["pubmed_07", "pubmed_14"],
+    "difficulty": "hard",
+    "type": "compositional",
+    "reference_answer": "The literature separately investigates meal timing and daytime napping in relation to metabolic health and type 2 diabetes risk, suggesting that behavioral timing patterns may be relevant factors."
+  }
+]

@@ -1,0 +1,14 @@
+{
+    "doc_id": "pubmed_35",
+    "pmid": "24008910",
+    "title": "Predicting risk of type 2 diabetes mellitus with genetic risk models on the basis of established genome-wide association markers: a systematic review",
+    "abstract": "This study aimed to evaluate the predictive performance of genetic risk models based on risk loci identified and/or confirmed in genome-wide association studies for type 2 diabetes mellitus. A systematic literature search was conducted in the PubMed/MEDLINE and EMBASE databases through April 13, 2012, and published data relevant to the prediction of type 2 diabetes based on genome-wide association marker-based risk models (GRMs) were included. Of the 1,234 potentially relevant articles, 21 articles representing 23 studies were eligible for inclusion. The median area under the receiver operating characteristic curve (AUC) among eligible studies was 0.60 (range, 0.55-0.68), which did not differ appreciably by study design, sample size, participants' race/ethnicity, or the number of genetic markers included in the GRMs. In addition, the AUCs for type 2 diabetes did not improve appreciably with the addition of genetic markers into conventional risk factor-based models (median AUC, 0.79 (range, 0.63-0.91) vs. median AUC, 0.78 (range, 0.63-0.90), respectively). A limited number of included studies used reclassification measures and yielded inconsistent results. In conclusion, GRMs showed a low predictive performance for risk of type 2 diabetes, irrespective of study design, participants' race/ethnicity, and the number of genetic markers included. Moreover, the addition of genome-wide association markers into conventional risk models produced little improvement in predictive performance.",
+    "keywords": [
+      "genome-wide association study",
+      "genetic risk score",
+      "type 2 diabetes",
+      "risk prediction",
+      "susceptibility loci"
+    ],
+    "source": "PubMed"
+  }

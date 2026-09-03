@@ -1,0 +1,16 @@
+{
+    "doc_id": "pubmed_32",
+    "pmid": "25665094",
+    "title": "Autophagy in diabetes: β-cell dysfunction, insulin resistance, and complications",
+    "abstract": "Autophagy functions to degrade and recycle intracellular proteins and damaged organelles, maintaining the normal cellular function. Autophagy has been shown to play an important role in regulating normal function of pancreatic β cells and insulin-target tissues, such as skeletal muscle, liver, and adipose tissue. Enhanced autophagy also acts as a protective mechanism against oxidative stress in these tissues. Altered autophagic activity has been implicated in the progression of obesity to type 2 diabetes through impaired β-cell function and development of insulin resistance. In this review, we outline the normal regulation of autophagy in β cells and insulin target tissues and explore the dysregulation of autophagy in diabetic animal models and human subjects with type 2 diabetes. Furthermore, we highlight the role of impaired autophagy in the pathophysiology of diabetic complications, including nephropathy and cardiomyopathy. Finally, we summarize how autophagy might be targeted as a therapeutic option in type 2 diabetes.",
+    "keywords": [
+      "autophagy",
+      "beta-cell dysfunction",
+      "insulin resistance",
+      "diabetic nephropathy",
+      "diabetic cardiomyopathy",
+      "skeletal muscle",
+      "liver"
+    ],
+    "source": "PubMed"
+  }

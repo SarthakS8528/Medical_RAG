@@ -1,10 +1,10 @@
-from retriever import build_vector_store, retrieve_documents
+from retriever import load_vector_store, retrieve_documents
 from generator import generate_answer
 
 def run_rag(query,k=5):
 
     #Phele we build a vector store
-    vector_store=build_vector_store()
+    vector_store=load_vector_store()
 
     #Retrieve relevant chunks
     results= retrieve_documents(
