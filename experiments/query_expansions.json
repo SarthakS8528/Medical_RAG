@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "original_query": "What are the main biological problems that cause blood sugar regulation to break down in type 2 diabetes?",
+        "expanded_query": "What are the main biological mechanisms or pathophysiology causing the impairment of glucose homeostasis, dysregulation of blood sugar control, insulin resistance, or beta-cell dysfunction in type 2 diabetes?"
+    },
+    {
+        "id": 2,
+        "original_query": "What long-term complications can develop when type 2 diabetes remains poorly controlled?",
+        "expanded_query": "Long-term chronic complications, sequelae, or adverse outcomes resulting from poorly controlled or uncontrolled type 2 diabetes mellitus (NIDDM), or sustained hyperglycemia and suboptimal glycemic management, including macrovascular and microvascular issues."
+    },
+    {
+        "id": 3,
+        "original_query": "Why is kidney damage considered one of the major complications of type 2 diabetes?",
+        "expanded_query": "Type 2 diabetes mellitus and diabetic nephropathy, renal injury, or chronic kidney disease: mechanisms, pathophysiology, and clinical significance."
+    },
+    {
+        "id": 4,
+        "original_query": "Why might an older adult with diabetes gradually lose muscle strength and physical function?",
+        "expanded_query": "Mechanisms underlying sarcopenia, muscle weakness, and functional decline in aging individuals with type 2 diabetes."
+    },
+    {
+        "id": 5,
+        "original_query": "What can be done during the stage when a person's glucose regulation is worsening but diabetes has not yet fully developed?",
+        "expanded_query": "What interventions or management strategies are effective for individuals with worsening glucose regulation, prediabetes, or insulin resistance, prior to the full onset of diabetes?"
+    },
+    {
+        "id": 6,
+        "original_query": "Can medication be useful for preventing diabetes in people who are at high risk but do not yet have the disease?",
+        "expanded_query": "Pharmacological interventions for preventing type 2 diabetes mellitus in individuals with prediabetes or high-risk for the disease."
+    },
+    {
+        "id": 7,
+        "original_query": "Could the microorganisms living in the intestine influence whether someone develops type 2 diabetes?",
+        "expanded_query": "The influence of gut microbiota, intestinal microbiome, and dysbiosis on the development, onset, and risk of type 2 diabetes mellitus and insulin resistance."
+    },
+    {
+        "id": 8,
+        "original_query": "Which compounds produced or modified by gut microorganisms are being investigated in relation to diabetes?",
+        "expanded_query": "Compounds, metabolites, or molecules originating from the gut microbiota or intestinal microbiome, and their investigation, role, or association with diabetes mellitus, insulin resistance, or glucose metabolism."
+    },
+    {
+        "id": 9,
+        "original_query": "Why is cardiovascular disease such an important concern in people with type 2 diabetes?",
+        "expanded_query": "Cardiovascular disease risk, prevalence, complications, and adverse outcomes in patients with type 2 diabetes, non-insulin-dependent diabetes mellitus (NIDDM), including heart disease, vascular disease, atherosclerosis, coronary artery disease, stroke, and peripheral artery disease."
+    },
+    {
+        "id": 10,
+        "original_query": "Why would a doctor need to manage blood pressure and cholesterol as well as blood glucose in someone with diabetes?",
+        "expanded_query": "Why is concurrent management of hypertension, dyslipidemia, and hyperglycemia important for patients with diabetes mellitus?"
+    },
+    {
+        "id": 11,
+        "original_query": "Does the timing of meals matter for metabolic health, or is only the total amount of food important?",
+        "expanded_query": "The effect of meal timing, eating patterns, intermittent fasting, or chrononutrition on metabolic health, glucose regulation, insulin sensitivity, and lipid metabolism, compared with the impact of total caloric intake or overall food quantity."
+    },
+    {
+        "id": 12,
+        "original_query": "Is taking long naps during the day associated with a greater risk of type 2 diabetes?",
+        "expanded_query": "Prolonged daytime napping, extended siestas, or excessive diurnal sleep duration and their association, correlation, or link with increased risk, higher incidence, or predisposition to type 2 diabetes or T2D."
+    },
+    {
+        "id": 13,
+        "original_query": "Why can type 2 diabetes affect memory and thinking in addition to causing metabolic problems?",
+        "expanded_query": "Mechanisms underlying cognitive dysfunction, memory impairment, and executive function deficits in type 2 diabetes mellitus (T2DM)."
+    },
+    {
+        "id": 14,
+        "original_query": "How are fatty liver disease and type 2 diabetes biologically connected?",
+        "expanded_query": "Explore the biological connections, underlying mechanisms, and shared pathophysiology between fatty liver disease (non-alcoholic fatty liver disease NAFLD, metabolic dysfunction-associated fatty liver disease MAFLD, hepatic steatosis) and type 2 diabetes mellitus, including its link to insulin resistance."
+    },
+    {
+        "id": 15,
+        "original_query": "What is ferroptosis, and why has it attracted attention in diabetes research?",
+        "expanded_query": "Ferroptosis, iron-dependent cell death, lipid peroxidation, and its significance, role, or implications in diabetes mellitus and metabolic disorder research."
+    },
+    {
+        "id": 16,
+        "original_query": "Could abnormal iron regulation inside cells contribute to diabetes-related damage?",
+        "expanded_query": "Abnormal intracellular iron regulation, iron dyshomeostasis, or cellular iron metabolism alterations and their role in diabetic complications or diabetes-associated tissue damage."
+    },
+    {
+        "id": 17,
+        "original_query": "Could changing the behavior of metabolically active fat tissue become a treatment strategy for obesity and type 2 diabetes?",
+        "expanded_query": "Modulating the metabolic function or plasticity of adipose tissue, including white, brown, and beige fat, as a therapeutic strategy or intervention for obesity, weight management, and type 2 diabetes or insulin resistance."
+    },
+    {
+        "id": 18,
+        "original_query": "Why are researchers interested in autophagy when studying the development and treatment of diabetes?",
+        "expanded_query": "Research interest in the role of autophagy, macroautophagy, or autophagosome formation in the pathogenesis, etiology, and progression of diabetes mellitus, type 1 diabetes, type 2 diabetes, and insulin resistance, and its significance for therapeutic strategies, treatments, and pharmacological interventions."
+    },
+    {
+        "id": 19,
+        "original_query": "Could changes in blood flow within particular regions of the brain help explain cognitive problems associated with diabetes?",
+        "expanded_query": "Cerebral blood flow alterations, regional brain perfusion changes, and cerebrovascular dysfunction in relation to cognitive impairment or neurocognitive deficits in diabetes mellitus."
+    },
+    {
+        "id": 20,
+        "original_query": "What does treating diabetes through the gut microbiome actually involve?",
+        "expanded_query": "Therapeutic strategies and mechanisms for managing diabetes mellitus through gut microbiota modulation and intestinal flora interventions."
+    },
+    {
+        "id": 21,
+        "original_query": "Why might two patients with the same type 2 diabetes diagnosis require different approaches to cardiovascular risk management?",
+        "expanded_query": "Factors influencing individualized cardiovascular risk management and personalized prevention strategies in patients with type 2 diabetes mellitus, considering inter-individual variability in disease presentation and progression."
+    }
+]
