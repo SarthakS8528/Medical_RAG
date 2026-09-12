@@ -103,5 +103,50 @@
         "id": 21,
         "original_query": "Why might two patients with the same type 2 diabetes diagnosis require different approaches to cardiovascular risk management?",
         "expanded_query": "Factors influencing individualized cardiovascular risk management and personalized prevention strategies in patients with type 2 diabetes mellitus, considering inter-individual variability in disease presentation and progression."
+    },
+    {
+        "id": 22,
+        "original_query": "Why can detecting diabetes earlier make a meaningful difference to patient outcomes?",
+        "expanded_query": "The benefits and impact of early detection, diagnosis, and screening for diabetes mellitus, including prediabetes, on patient clinical outcomes, disease progression, complications, morbidity, mortality, and quality of life."
+    },
+    {
+        "id": 23,
+        "original_query": "Why can diabetes and muscle loss be particularly problematic when they occur together in older adults?",
+        "expanded_query": "Why are diabetes mellitus and muscle wasting, such as sarcopenia, particularly problematic or lead to worse outcomes when co-occurring in elderly and aging populations?"
+    },
+    {
+        "id": 24,
+        "original_query": "What role does S-nitrosylation play in the molecular biology of type 2 diabetes?",
+        "expanded_query": "S-nitrosylation, S-nitrosation, or protein S-nitrosylation's involvement, impact, or regulatory role in the molecular mechanisms, cellular biology, biochemical pathways, or post-translational modifications associated with type 2 diabetes, type 2 diabetes mellitus, insulin resistance, or pancreatic beta-cell dysfunction."
+    },
+    {
+        "id": 25,
+        "original_query": "What does pharmacomicrobiomics mean in the context of diabetes treatment?",
+        "expanded_query": "Understanding the role of pharmacomicrobiomics, gut microbiota, and microbial communities in antidiabetic drug response, metabolism, pharmacokinetics, and therapeutic outcomes for diabetes treatment and glycemic control."
+    },
+    {
+        "id": 26,
+        "original_query": "When researchers study ATP signaling in diabetes, what biological role are they trying to understand?",
+        "expanded_query": "Biological role and molecular mechanisms of ATP signaling, purinergic signaling, or extracellular ATP and purinergic receptors in diabetes mellitus, glucose homeostasis, insulin regulation, and pancreatic beta-cell function."
+    },
+    {
+        "id": 27,
+        "original_query": "How could diabetes simultaneously increase the risk of cardiovascular disease and kidney disease?",
+        "expanded_query": "Diabetes mellitus or diabetic concurrent complications and comorbidity linking cardiovascular disease or CVD or heart disease or vascular complications with kidney disease or renal disease or nephropathy or chronic kidney disease CKD, exploring shared mechanisms or common pathogenic pathways."
+    },
+    {
+        "id": 28,
+        "original_query": "How might inflammation connect problems involving metabolism, muscle, and the brain in people with type 2 diabetes?",
+        "expanded_query": "Inflammation, chronic inflammation, or inflammatory pathways linking metabolic dysfunction, insulin resistance, skeletal muscle problems, myopathy, central nervous system issues, or neuroinflammation in individuals with type 2 diabetes or T2D."
+    },
+    {
+        "id": 29,
+        "original_query": "What mechanisms are being investigated to explain why diabetes can involve problems far beyond abnormal blood glucose?",
+        "expanded_query": "What underlying mechanisms, pathophysiology, or molecular pathways are being investigated to explain the systemic complications, extra-glycemic effects, or multi-organ damage associated with diabetes mellitus, beyond the direct impact of hyperglycemia or abnormal blood glucose levels?"
+    },
+    {
+        "id": 30,
+        "original_query": "Could lifestyle-related factors such as meal timing and daytime sleep patterns both be relevant to diabetes risk?",
+        "expanded_query": "The relationship between meal timing, chrononutrition, eating patterns, time-restricted eating, daytime sleep, napping, diurnal sleep, and the risk of diabetes, prediabetes, insulin resistance, or metabolic syndrome."
     }
 ]
