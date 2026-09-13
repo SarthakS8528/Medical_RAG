@@ -2,9 +2,9 @@ import os
 
 from langchain_community.vectorstores import FAISS
 
-from ingest import load_pubmed_documents
-from chunking import chunk_documents
-from embeddings import get_embedding_model
+from src.ingest import load_pubmed_documents
+from src.chunking import chunk_documents
+from src.embeddings import get_embedding_model
 
 
 VECTOR_STORE_PATH = "vector_store/faiss_index"
