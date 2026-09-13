@@ -14,16 +14,8 @@ def load_reranker():
 
 def rerank_documents(model, query, documents, top_k=5):
     """
-    Rerank documents according to their relevance to the query.
-
-    Parameters:
-        model: loaded CrossEncoder
-        query: original user query
-        documents: list of LangChain Document objects
-        top_k: number of documents to return
-
-    Returns:
-        List of (Document, score) tuples sorted by descending score.
+    Rerank documents using a Cross-Encoder and return
+    the top-k unique documents.
     """
 
     if not documents:
@@ -42,4 +34,19 @@ def rerank_documents(model, query, documents, top_k=5):
         reverse=True
     )
 
-    return ranked_documents[:top_k]
+    # Deduplicate by doc_id
+    seen = set()
+    unique_documents = []
+
+    for doc, score in ranked_documents:
+
+        doc_id = doc.metadata.get("doc_id")
+
+        if doc_id not in seen:
+            seen.add(doc_id)
+            unique_documents.append((doc, score))
+
+        if len(unique_documents) == top_k:
+            break
+
+    return unique_documents
