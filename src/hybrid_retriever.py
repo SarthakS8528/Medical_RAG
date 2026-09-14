@@ -1,5 +1,5 @@
-from bm25_retriever import build_bm25_index, retrieve_bm25
-from retriever import load_vector_store, retrieve_documents
+from src.bm25_retriever import build_bm25_index, retrieve_bm25
+from src.retriever import load_vector_store, retrieve_documents
 
 
 DENSE_TOP_K = 20

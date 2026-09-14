@@ -2,7 +2,7 @@ import os
 import json
 from rank_bm25 import BM25Okapi
 from langchain_core.documents import Document
-from chunking import chunk_documents
+from src.chunking import chunk_documents
 
 
 ARTICLES_DIR = "pubmed_articles"
